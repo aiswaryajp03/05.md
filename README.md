@@ -36,7 +36,7 @@ contributor: "@aiswaryajp03"
 - Modern digital design flow  
 - Verilog constructs: data types, the module, Verilog operators  
 
-**Contact Hours:** 11
+
 
 ---
 
@@ -52,8 +52,6 @@ contributor: "@aiswaryajp03"
 - Continuous assignment with conditional operators  
 - Continuous assignment with delay  
 
-**Contact Hours:** 11
-
 ---
 
 #### Module 3 – MSI Logic and Digital Building Blocks
@@ -62,8 +60,6 @@ contributor: "@aiswaryajp03"
 - Digital Building Blocks - Arithmetic Circuits: Half adder, Full adder, Half subtractor, Full subtractor, Comparators  
 - Structural design and hierarchy - lower level module instantiation  
 - Gate level primitives, user defined primitives, adding delay to primitives  
-
-**Contact Hours:** 8
 
 ---
 
@@ -86,7 +82,6 @@ contributor: "@aiswaryajp03"
 - Modeling a D flipflop in Verilog  
 - Modeling an FSM in Verilog  
 
-**Contact Hours:** 14
 
 ---
 
